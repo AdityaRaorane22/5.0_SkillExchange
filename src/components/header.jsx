@@ -1,9 +1,14 @@
 import React from "react";
+// import '../../public/css/style.css'; // Import the CSS file for styling
 
 export const Header = (props) => {
   return (
     <header id="header">
       <div className="intro">
+        <video autoPlay muted loop className="background-video">
+          <source src="https://videos.pexels.com/video-files/3209298/3209298-sd_640_360_25fps.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
         <div className="overlay">
           <div className="container">
             <div className="row">
@@ -27,3 +32,4 @@ export const Header = (props) => {
     </header>
   );
 };
+

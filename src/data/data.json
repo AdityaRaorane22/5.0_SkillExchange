@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Discover, Share, and Grow Your Skills.",
+    "paragraph": "Join our community to exchange knowledge, host workshops, and connect with experts in various fields."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At SkillxChange, we believe in the power of shared knowledge and collaboration. Our platform connects individuals from diverse fields, enabling them to exchange skills, host workshops, and grow their expertise together. By fostering a community-driven environment, we aim to make learning and skill development accessible to everyone. Join us to discover new passions, enhance your abilities, and contribute to a vibrant, skill-sharing ecosystem.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Real-Time Interaction",
+      "Collaborative Opportunities",
+      "Skill Endorsements and Ratings",
+      "Accessible Learning"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Skill Wallet",
+      "Smart Matching",
+      "Resource Library",
+      "Interactive Learning"
     ]
   },
   "Gallery": [
@@ -68,33 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Real-Time Interaction",
+      "text": "Engage in live video sessions for immediate and effective skill exchange, enabling real-time feedback and hands-on learning experiences."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Collaborative Opportunities",
+      "text": "Work on larger community projects by pooling resources and skills, fostering teamwork and collective growth within the community."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Flexible Transactions",
+      "text": "Exchange skills with skill coins or purchase them directly with real money, providing flexibility and accessibility to all users"
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Recognition System",
+      "text": "Use time credits to earn and give skill endorsements and ratings, ensuring that contributions are acknowledged and valued by the community."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Accessible Learning",
+      "text": "Make learning and skill development accessible to all, regardless of background, ensuring that everyone has the opportunity to grow and succeed."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Community Support",
+      "text": "Be a part of a supportive network that values knowledge sharing and mutual growth, creating a collaborative environment for continuous improvement."
     }
   ],
   "Testimonials": [
@@ -132,7 +132,7 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "name": "Aditya RaoRane",
       "job": "Director"
     },
     {
@@ -152,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "4321 Chembur Palace, Mumbai, Maharashtra 12345 ",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "info@skillxchange.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Live Video Sessions",
+      "text": "Engage in real-time skill exchanges via live video conferencing."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Collaborative Projects",
+      "text": "Join forces with others on community projects by pooling your skills"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Time Credit Endorsements",
+      "text": "Earn and give skill endorsements and ratings managed through time credits."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Flexible Skill Transactions",
+      "text": "Exchange skills with skill coins or purchase them with real money."
     }
   ]
 }
